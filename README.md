@@ -31,8 +31,7 @@
 
 ### 💼 My Portfolio
 - **Projects**: [GitHub Portfolio](https://github.com/Hema123-4)
-- **Resume**: [View My Resume](https://drive.google.com/file/d/1x23aGExampleFileLink/view?usp=sharing)
-
+- **Resume**: [View My Resume](https://docs.google.com/document/d/1numFD8Ax1jJnG0hUDknkmdUqlU27N_Kh/edit?usp=sharing&ouid=113740013343009636703&rtpof=true&sd=true)
 ---
 
 ### 🛠️ Languages and Tools
