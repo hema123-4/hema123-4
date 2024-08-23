@@ -7,22 +7,22 @@
 </p>
 
 <p align="center">
-  Passionate about combining <strong>frontend technologies</strong> with <strong>AI and high-performance computing</strong> to create impactful and secure web applications.
+  I’m passionate about blending <strong>frontend technologies</strong> with <strong>AI and high-performance computing</strong> to craft impactful, secure, and high-performing web applications.
 </p>
 
 ---
 
 ### 🔭 Current Projects
 
-- **AI & ML Research**: Developing models for Alzheimer's detection using high-performance computing.
+- **AI & ML Research**: Developing cutting-edge models for Alzheimer's detection using high-performance computing, pushing the boundaries of AI in healthcare.
 
 ### 🌱 What I’m Learning
-- **Backend Development**: Expanding my skill set to become a full-stack developer.
-- **Generative AI**: Exploring the latest advancements in AI and how they can be integrated into web development.
+- **Backend Development**: Building a solid foundation to transition into full-stack development.
+- **Generative AI**: Delving into the latest AI advancements and integrating them into web applications for innovative solutions.
 
 ### 👯 Collaboration Interests
-- **Web Development Projects**: Open to collaborations on any interesting frontend or full-stack projects.
-- **AI Research**: Interested in collaborating on machine learning and AI research projects, especially in healthcare.
+- **Web Development Projects**: Excited to collaborate on creative and challenging frontend or full-stack projects.
+- **AI Research**: Open to joint research projects focusing on machine learning, particularly in healthcare and high-impact areas.
 
 ### 📫 Connect With Me
 - **LinkedIn**: [Hemalatha Muchumarri](https://www.linkedin.com/in/hemalatha-muchumarri-b34110279)
@@ -31,26 +31,26 @@
 
 ### 💼 My Portfolio
 - **Projects**: [GitHub Portfolio](https://github.com/Hema123-4)
-- **Resume**: [View My Resume](https://docs.google.com/document/d/1numFD8Ax1jJnG0hUDknkmdUqlU27N_Kh/edit?usp=sharing&ouid=113740013343009636703&rtpof=true&sd=true)
+- **Resume**: [View My Resume](https://drive.google.com/file/d/1x23aGExampleFileLink/view?usp=sharing)
+
 ---
 
 ### 🛠️ Languages and Tools
-<p align="left"> 
-  
+<p align="center"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
   </a>
 </p>
 
@@ -58,35 +58,36 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hema123-4&show_icons=true&theme=radical" alt="Hemalatha" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hema123-4&show_icons=true&theme=radical" alt="Hemalatha's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hema123-4&show_icons=true&locale=en&layout=compact&theme=radical" alt="Hemalatha" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hema123-4&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hema123-4&theme=radical" alt="Hemalatha" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hema123-4&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📈 Recent Activity
 <!--START_SECTION:activity-->
-1. 🔄 Merged PR [#15](https://github.com/Hema123-4/project/pull/15) in [Hema123-4/project](https://github.com/Hema123-4/project)
-2. 🗣 Commented on [#14](https://github.com/Hema123-4/project/issues/14) in [Hema123-4/project](https://github.com/Hema123-4/project)
+1. 🔄 Merged PR [#15](https://github.com/Hema123-4/online-food-delivery-system/pull/15) in [Hema123-4/online-food-delivery-system](https://github.com/Hema123-4/online-food-delivery-system)
+2. 🗣 Commented on [#14](https://github.com/Hema123-4/online-food-delivery-system/issues/14) in [Hema123-4/online-food-delivery-system](https://github.com/Hema123-4/online-food-delivery-system)
+3. 💻 Pushed code for [Online Payment Fraud Detection](https://github.com/Hema123-4/online-payment-fraud-detection)
 <!--END_SECTION:activity-->
 
 ---
 
 ### 🎨 Design Philosophy
-- **User-Centric**: Always focusing on creating intuitive and seamless user experiences.
-- **Performance-Optimized**: Writing clean and efficient code to ensure high performance.
-- **Secure**: Implementing robust security measures to protect user data and application integrity.
+- **User-Centric**: Prioritizing intuitive and seamless user experiences.
+- **Performance-Optimized**: Crafting clean, efficient code to maximize performance.
+- **Security-Focused**: Implementing robust security measures to protect user data and application integrity.
 
 ---
 
 ### 💬 Ask Me About
-- **Frontend Development**: React and modern web technologies.
-- **High-Performance Computing**: Techniques and tools for scaling applications.
-- **AI & ML**: Research and practical implementations in various domains.
+- **Frontend Development**: Expertise in React and modern web technologies.
+- **High-Performance Computing**: Techniques for scaling applications to handle large-scale data and processing.
+- **AI & ML**: Research and practical implementations across various domains, particularly in healthcare.
