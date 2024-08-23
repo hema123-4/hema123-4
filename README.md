@@ -31,7 +31,8 @@
 
 ### 💼 My Portfolio
 - **Projects**: [GitHub Portfolio](https://github.com/Hema123-4)
-- **Resume**: [View My Resume](https://drive.google.com/file/d/1x23aGExampleFileLink/view?usp=sharing)
+- **Resume**: [View My Resume](https://drive.google.com/file/d/1jxJnK99wAcfVVYNs0puLrlqGcEHldJky/view?usp=sharing)
+- **Personal Portfolio**:[view My Website](https://hemalathamuchumarr.wixsite.com/my-site-2)
 
 ---
 
