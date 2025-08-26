@@ -31,7 +31,7 @@
 
 ### 💼 My Portfolio
 - **GitHub Projects**: [Portfolio](https://github.com/Hema123-4)  
-- **Resume**: [View My Resume](https://drive.google.com/file/d/1SxTxmasWgHeJ8twQn-Tzh-oxOe6Rz9J0/view?usp=sharing)  
+- **Resume**: [View My Resume](https://drive.google.com/file/d/1pbFvoCtvl4GVcJ0tn4OaN6VqwpnyyXHP/view?usp=sharing)  
 - **LinkedIn**: [Hemalatha Muchumarri](https://www.linkedin.com/in/muchumarri-hemalatha-b34110279)  
 
 ---
