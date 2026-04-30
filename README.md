@@ -1,109 +1,141 @@
-<h1 align="center">Hi 👋, I'm Hemalatha</h1>
-<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | AI Explorer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hema123-4&label=Profile%20views&color=0e75b6&style=flat" alt="Hemalatha" /> 
-  <a href="https://github.com/Hema123-4?tab=followers"><img src="https://img.shields.io/github/followers/Hema123-4?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
+# 👋 Hi, I'm Hemalatha Muchumarri
 
-<p align="center">
-  I’m passionate about leveraging <strong>Data Science, AI, and Machine Learning</strong> to solve real-world problems.  
-  With a strong foundation in <strong>statistics, data analysis, and predictive modeling</strong>, I enjoy turning raw data into meaningful insights and impactful applications.  
-</p>
+### AI Engineer · LLM Systems · RAG Pipelines · Multi-Agent Workflows
 
----
+[![Email](https://img.shields.io/badge/Email-hemalathamuchumarri%40gmail.com-D85A30?style=flat-square&logo=gmail&logoColor=white)](mailto:hemalathamuchumarri@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%208309899798-1D9E75?style=flat-square&logo=whatsapp&logoColor=white)](tel:+918309899798)
 
-### 🔭 Current Focus
-- **Machine Learning Projects**: Building predictive models for healthcare, fraud detection, and agriculture.  
-- **Data Visualization**: Creating effective insights using Tableau, Matplotlib, and Seaborn.  
-- **SQL & Databases**: Strengthening expertise in MySQL and relational database management.  
-
-### 🌱 What I’m Learning
-- **Advanced Machine Learning**: Model optimization, deep learning fundamentals.  
-- **Generative AI for Data Science**: Exploring AI-driven tools to automate analysis.  
-- **Big Data Handling**: Working with larger datasets and performance optimization.  
-
-### 👯 Collaboration Interests
-- **Data Science & Analytics Projects**: Exploratory data analysis, predictive modeling, dashboards.  
-- **AI & ML Applications**: Projects applying machine learning to healthcare and finance.  
+</div>
 
 ---
 
-### 💼 My Portfolio
-- **GitHub Projects**: [Portfolio](https://github.com/Hema123-4)  
-- **Resume**: [View My Resume](https://drive.google.com/file/d/1pbFvoCtvl4GVcJ0tn4OaN6VqwpnyyXHP/view?usp=sharing)  
-- **LinkedIn**: [Hemalatha Muchumarri](https://www.linkedin.com/in/muchumarri-hemalatha-b34110279)  
+## 🚀 About Me
+
+Results-driven **AI Engineer** with production experience building LLM-powered agents, RAG pipelines, and multi-agent orchestration systems. I've shipped real-world agentic AI at **Ecogynize** — integrating OpenAI APIs, ChromaDB vector storage, and multi-tenant architectures to power enterprise sustainability platforms.
+
+> 💡 *I prefer shipping code over theoretical discussions. My goal: apply agentic AI to high-stakes, real-world domains like fintech, banking, and investment research.*
 
 ---
 
-### 🛠️ Skills & Tools
-<p align="center"> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
-  </a>
-  <a href="https://numpy.org/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> 
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-Learn" width="40" height="40"/> 
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> 
-  </a>
-  <a href="https://matplotlib.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/> 
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank"> 
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  </a>
-  <a href="https://public.tableau.com/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/> 
-  </a>
-</p>
+## 🛠️ Tech Stack
+
+### 🤖 Agentic AI & LLM
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0F6E56?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-D85A30?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412002?style=flat-square&logo=openai&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-185FA5?style=flat-square&logo=google&logoColor=white)
+
+### 🗄️ Vector Databases
+![ChromaDB](https://img.shields.io/badge/ChromaDB-993C1D?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-1D9E75?style=flat-square)
+![Weaviate](https://img.shields.io/badge/Weaviate-534AB7?style=flat-square)
+
+### ⚙️ Backend & Dev
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-5F5E5A?style=flat-square)
+
+### 📊 ML & Data
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+### 🗃️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 ---
 
-### 🚀 Projects
-- **Smart Heart Disease Detection** → ML models to detect heart disease with improved accuracy (+10%), deployed via a web app.  
-- **Satellite Image-Based Crop Recommendation System** → Recommends crops using satellite imagery, weather, and ML (Random Forest, CNN).  
-- **Online Payment Fraud Detection** → Decision Tree model detecting fraud transactions with 93% accuracy.  
-- **Online Food Delivery Website** → Built a functional food ordering platform with HTML, CSS, JS.  
+## 💼 Professional Experience
+
+### 🏢 AI/ML Engineer Intern — Ecogynize | Bangalore | June 2025 – April 2026
+
+| What I Built | Impact |
+|---|---|
+| 🏗️ **Production Sustainability Analysis Engine** using FastAPI + Python | Served multiple enterprise clients simultaneously with real-time anomaly detection |
+| 🧠 **LLM Reasoning Pipelines** (OpenAI APIs + Prompt Engineering) | Auto-generated natural language insights for flagged system behavior, cutting manual analysis time significantly |
+| 🤝 **Multi-Agent CrewAI Workflow** for carbon emission analysis | End-to-end agentic AI — from data ingestion to actionable output |
+| 🔍 **RAG Pipeline** with ChromaDB + tenant-specific SOP documents | Context-aware, grounded LLM responses for sustainability domain queries |
+| 🏛️ **Multi-tenant Architecture** with complete data isolation | Horizontal scalability across enterprise deployments |
+| 📄 **Automated PDF Report Generation** + Zone-based dashboards | Real-time operational decision support for enterprise clients |
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hema123-4&show_icons=true&theme=radical" alt="Hemalatha's GitHub Stats" />
-</p>
+## 🔬 Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hema123-4&show_icons=true&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### 📧 AI-Powered Email Drafting Assistant
+> **LangGraph · LangChain · Gemini AI · Prompt Engineering**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hema123-4&theme=radical" alt="GitHub Streak" />
-</p>
+- Built a multi-node **LangGraph agent pipeline** that classifies emails (professional/personal) and autonomously generates context-aware reply drafts
+- Designed classification, drafting, and notification nodes enabling **fully automated workflow execution**
+- Reduced manual email response effort to near zero through end-to-end agentic workflow design
 
 ---
 
-### 🎓 Internships
-- **Machine Learning Intern – Acmegrade Pvt Ltd** → Trained ML models (SVM, KNN), improved accuracy by 10%, optimized data preprocessing and evaluation.  
-- **Web Development Intern – Oasis Infobyte** → Designed and developed frontend components for client websites using HTML, CSS, JS.  
+### ❤️ Smart Heart Disease Detection System
+> **Python · scikit-learn · ML · Pandas · NumPy · HTML/CSS/JS**
+
+- Trained and benchmarked multiple ML classifiers (Logistic Regression, Random Forest, SVM, KNN)
+- Achieved **10% accuracy improvement** through feature engineering and hyperparameter tuning
+- Deployed as a **full-stack web application** enabling real-time health risk predictions
 
 ---
 
-### 💬 Ask Me About
-- **Data Science & Analytics** → Statistics, ML models, EDA.  
-- **Data Visualization** → Tableau, Seaborn, Matplotlib.  
-- **AI & ML Applications** → Predictive analytics, classification, healthcare solutions.  
+## 🎓 Education
+
+| Degree | Institution | Year | Score |
+|---|---|---|---|
+| B.Tech – Computer Science | Alliance University, Bangalore | 2025 | 79% |
+| Intermediate (12th) | NRI Junior College | 2021 | 92.9% |
+| SSC (10th) | Sri Padmavani EM High School | 2019 | 93% |
 
 ---
 
-### 🎯 Career Goal
-To contribute as a **Data Scientist**, applying data-driven insights and AI to solve complex challenges in healthcare, finance, and agriculture.
+## 📜 Certifications
+
+- 📊 **Data Visualization: Empowering Business with Effective Insight** *(July 2025)*
+- 🐍 **Python Essentials 1** *(June 2025)*
+- 🗄️ **SQL and Relational Databases 101** *(June 2025)*
+- 📈 **Data Visualization with Tableau** *(June 2024)*
+- 🤖 **Getting Started with Enterprise-Grade AI** *(June 2023)*
+
+---
+
+## 🏆 Achievements
+
+🥉 **3rd Place** — Technofair 2023 Oral Presentation Competition  
+Presented a technical project to a panel of industry judges
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemalathamuchumarri&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemalathamuchumarri&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+---
+
+## 🌱 Currently Exploring
+
+- 🏦 Agentic AI applications in **fintech & banking intelligence**
+- 📊 **LLM-based decision systems** for financial risk management
+- 🔗 Advanced **multi-agent orchestration** patterns with LangGraph
+
+---
+
+<div align="center">
+
+*"I build AI systems that work in the real world — production-grade, scalable, and impactful."*
+
+⭐ **Feel free to explore my repositories and reach out for collaborations!**
+
+</div>
